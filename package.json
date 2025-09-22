@@ -1,0 +1,14 @@
+{
+  "name": "tdd-multiply-example",
+  "version": "1.0.0",
+  "description": "TDD multiply example with Mocha, Chai, ESLint",
+  "main": "multiply.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^6.0.1",
+    "eslint": "^9.36.0",
+    "mocha": "^11.7.2"
+  }
+}
