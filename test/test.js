@@ -14,4 +14,7 @@ describe("multiply", function () {
   it("should return 16 when multiplying 4 and 4", function () {
     expect(multiply(4, 4)).to.equal(16);
   });
+  it("should return 64 when multiplying 8 and 8", function () {
+    expect(multiply(8, 8)).to.equal(64);
+  });
 });

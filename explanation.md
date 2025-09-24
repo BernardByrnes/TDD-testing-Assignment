@@ -1,5 +1,7 @@
 # Step-by-Step Explanation: TDD Multiply Example
 
+**Partners:** Bernard Mutambo, Mary Achero
+
 This document explains, in simple steps, how we built a multiply function using Test-Driven Development (TDD) in Node.js.
 
 ## 1. Project Setup
